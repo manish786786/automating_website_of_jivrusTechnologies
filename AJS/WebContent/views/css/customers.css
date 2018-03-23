@@ -1,0 +1,140 @@
+
+
+#image1{
+    width: 250px;
+    height: 150px;
+    padding:10px;
+}
+
+footer{
+    width: 100%;
+    background-color: rgb(26, 25, 25);
+    padding: 0%;
+    color: rgb(119, 113, 113); 
+}
+
+h6{
+    padding: 20px;
+    color: white; 
+ }
+
+ #foot{
+    width: 100px;
+}
+
+
+ #img1{
+            border-style: solid;
+            background-image: url("img/customer_dewick.jpg");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            float: left;
+            margin-left: 50px;
+            }
+        #img2{
+            border-style: solid;
+            background-image: url("img/testbranch.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px;
+            max-width: 270px;
+            margin-left: 50px;
+            }
+        #img3{
+            border-style: solid;
+            background-image: url("img/customer_congnism.jpg");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px;
+            max-width: 270px;
+            float: right;
+            margin-right: 50px;
+            
+            } 
+            #img4{
+            border-style: solid;
+            background-image: url("img/customer_dog.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            float: left;
+            margin-left: 50px;
+            }
+            #img5{
+            border-style: solid;
+            background-image: url("img/customer_sock.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            margin-left: 50px;
+            }
+            #img6{
+            border-style: solid;
+            background-image: url("img/customer_wound.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            float: right;
+            margin-right: 50px;
+            }
+            #img7{
+            border-style: solid;
+            background-image: url("img/customer_guild.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            float: left;
+            margin-left: 50px;
+            }
+            #img8{
+            border-style: solid;
+            background-image: url("img/customer_50can.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            margin-left: 50px;
+            }
+            #img9{
+            border-style: solid;
+            background-image: url("img/customer_alibair.jpg");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            float: right;
+            margin-right: 50px;
+            }
+            #img10{
+            border-style: solid;
+            background-image: url("img/customer_hyde.jpg");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            float: left;
+            margin-left: 50px;
+            }
+            #img11{
+            border-style: solid;
+            background-image: url("img/customer_macros.png");
+            max-width: 300px;
+            height: 250px;
+            margin: 20px ;
+            max-width: 270px;
+            margin-left: 50px;
+            }
+            
+#specific{
+    margin-left: 350px;
+}
+
+#position{
+    margin-left: 35px;
+}

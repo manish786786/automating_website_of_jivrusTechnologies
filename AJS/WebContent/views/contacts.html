@@ -1,0 +1,62 @@
+   <h1 align="center">&nbsp&nbsp&nbsp<i><b>Contact Us</b></i></h1>
+        <div align="center" id="form">
+            <br>
+            <form action="../contact.do" method="post" id="margin" name="form" novalidate>
+
+            <div class="form-group">
+                <label><i><font size="5px"><b>Name</b></i><font color="red">*</font></font></label><br>
+                <label>Please provide your full  name</label>
+                <input type="text" class="form-control" name="name" ng-model="user.name" required>
+                <span ng-show="form.name.$error.required">Please fill this!</span>
+              </div><hr>
+
+
+              <div class="form-group">
+                <label><i><font size="5px"><b>Email</b></i><font color="red">*</font></font></label><br>
+                <label>Please provide your email id for any communication</label>
+                <input type="email" class="form-control" name="email" ng-model="user.email" required>
+                <span ng-show="form.email.$error.required">Please fill this!</span>
+                
+              </div><hr>
+
+              <div class="form-group">
+                <label><font size="5px"><i><b>Which Product or Service it is related to?</b></i></font></label><br>
+                <input type="text" class="form-control" name="product" >
+              </div><hr>
+
+              <div class="form-group">
+                <label><font size="5px"><i><b>How do we help you?</b></i><font color="red">*</font></font></label><br>
+                <label>Please write your problem or need and describe your expectation</label>
+                <input type="text" class="form-control" name="help" ng-model="user.help" required>
+                <span ng-show="form.help.$error.required">Please fill this!</span>
+              </div><hr>
+
+              <div class="form-group">
+                <label><i><font size="5px"><b>Any other comments</b></i></font></label><br>
+                <input type="text" class="form-control" name="comments" >
+              </div><hr>
+
+              <div class="form-group">
+                <label><i><font size="5px"><b>Place and Country</b></i><font color="red">*</font></font></label><br>
+                <input type="text" class="form-control" name="country" ng-model="user.country" required>
+                <span ng-show="form.country.$error.required">Please fill this!</span>
+              </div><hr>
+
+              <button type="submit" class="btn btn-danger" ng-disabled="form.$invalid">Submit</button>
+              <br><br>
+                  <h5 align="center"><font color="white">This content is neither created nor endorsed by Google. Report Abuse - Terms of Service - Additional Terms</font></h5>
+                  <h3 align="center"><font color="white">Google Forms</font></h3>
+                  <br>
+            </form>
+
+        </div>
+        
+       <br><br>
+        <h4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i><b>Bengaluru, India Office</b></i></h4>
+        <h4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i>Jivrus Technologies, 91Springboard,4th Floor, No 22, Salarpuria Towers-I,  Hosur Road,</i></h4>
+        <h4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i>Koramangala 7th Block,</i></h4>
+        <h4>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i>Bangalore, India</i></h4>
+        <div>
+                <iframe src="https://maps.google.com/?ll=12.93326%2C77.611948&amp;spn=0.00527%2C0.01502&amp;ie=UTF8&amp;hl=en_GB&amp;z=16&amp;t=roadmap&amp;sll=12.93326%2C77.611948&amp;sspn=0.00527%2C0.01502&amp;q=12.933212%2C77.611949%20(Untitled%20Location)&amp;output=embed"></iframe>
+        </div>
+        <hr>

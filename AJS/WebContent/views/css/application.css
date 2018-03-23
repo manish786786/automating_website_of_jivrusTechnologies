@@ -1,0 +1,29 @@
+#form{
+    background-image: url("img/form2.jpg");
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#image1{
+    width: 250px;
+    height: 150px;
+    padding:10px;
+}
+
+footer{
+    width: 100%;
+    background-color: rgb(26, 25, 25);
+    padding: 0%;
+    color: rgb(119, 113, 113); 
+}
+
+h6{
+    padding: 20px;
+    color: white; 
+ }
+
+ #foot{
+    width: 100px;
+}
